@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+body{
+    font-size: 18px;
+    font-family: 'Bacasime Antique' sans-serif;
+    font-weight: 100;
+    color: deeppink;
+    background-color: rgb(0, 0, 0);
+}
+
+.spis{
+    background-color: cornsilk;
+    border-radius: 10px;
+}
+.spis h4{
+    padding-left: 15px;
+}
+.tabl{
+    background-color: cornsilk;
+    border-radius: 10px;
+}
+.tabl h4{
+    padding-left: 15px;
+}
+.curs{
+    background-color: cornsilk;
+    border-radius: 10px;  
+}
+.curs h4{
+    padding-left: 15px;
+}
+.container{
+    max-width: 750px;
+    margin: auto;
+    padding: 15px;
+}
+.me{
+    margin: auto;
+    width: 150px;
+    height: 200px;
+    box-shadow: 4px 4px 14px rgb(255, 0, 0);
+}
+.container header h1{
+    width: 325px;
+    margin: auto;
+}
